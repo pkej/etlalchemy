@@ -2,7 +2,7 @@
 # You must have the drivers installed in order to install these!
 # (They are commented out for a reason, uncomment them once drivers are installed)
 
-#cx-Oracle==5.2.1
+#cx-Oracle==7.3.0
 #MySQL-python==1.2.5
 #psycopg2==2.6.1
 #pyodbc==3.0.10
