@@ -20,7 +20,7 @@ class PyTest(TestCommand):
 setup(
         name = 'etlalchemy',
         packages = ['etlalchemy'],
-        version = '1.0.6',
+        version = '1.0.6-pkej',
         description = 'Extract, Transform, Load. Migrate any SQL Database in 4 lines of code',
         author = 'Sean Harrington',
         author_email='seanharr11@gmail.com',
